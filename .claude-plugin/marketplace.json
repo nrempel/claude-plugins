@@ -23,7 +23,7 @@
       "name": "iterate",
       "source": { "source": "url", "url": "https://github.com/nrempel/claude-iterate.git" },
       "description": "Work iteratively on tasks until truly complete - compaction-safe",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "category": "productivity",
       "author": {
         "name": "Nick Rempel"
@@ -33,7 +33,7 @@
       "name": "research",
       "source": { "source": "url", "url": "https://github.com/nrempel/claude-research.git" },
       "description": "Deep research to eliminate assumptions before implementation",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "category": "productivity",
       "author": {
         "name": "Nick Rempel"
