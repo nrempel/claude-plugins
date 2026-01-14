@@ -18,6 +18,16 @@
       "author": {
         "name": "Nick Rempel"
       }
+    },
+    {
+      "name": "iterate",
+      "source": { "source": "url", "url": "https://github.com/nrempel/claude-iterate.git" },
+      "description": "Work iteratively on tasks until truly complete with verification",
+      "version": "1.0.0",
+      "category": "productivity",
+      "author": {
+        "name": "Nick Rempel"
+      }
     }
   ]
 }
