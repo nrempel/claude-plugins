@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "nrempel-plugins",
+  "version": "1.0.0",
+  "description": "Nick Rempel's Claude Code plugins",
+  "owner": {
+    "name": "Nick Rempel",
+    "email": "nbrempel@gmail.com",
+    "url": "https://nrempel.com"
+  },
+  "plugins": [
+    {
+      "name": "plugin-factory",
+      "source": { "source": "github", "repo": "nrempel/claude-plugin-factory" },
+      "description": "Create Claude Code plugins, skills, agents, and hooks",
+      "version": "1.0.0",
+      "category": "development",
+      "author": {
+        "name": "Nick Rempel"
+      }
+    }
+  ]
+}
