@@ -22,8 +22,8 @@
     {
       "name": "iterate",
       "source": { "source": "url", "url": "https://github.com/nrempel/claude-iterate.git" },
-      "description": "Work iteratively on tasks until truly complete with verification",
-      "version": "1.0.0",
+      "description": "Work iteratively on tasks until truly complete - compaction-safe",
+      "version": "1.1.0",
       "category": "productivity",
       "author": {
         "name": "Nick Rempel"
