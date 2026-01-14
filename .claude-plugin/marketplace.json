@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "plugin-factory",
-      "source": { "source": "github", "repo": "nrempel/claude-plugin-factory" },
+      "source": { "source": "url", "url": "https://github.com/nrempel/claude-plugin-factory.git" },
       "description": "Create Claude Code plugins, skills, agents, and hooks",
       "version": "1.0.0",
       "category": "development",
